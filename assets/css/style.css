@@ -1,0 +1,56 @@
+body {
+	background-image: url("../images/easterbackground.jpg");
+	color: purple;
+	font-size: 2em;
+}
+
+#timer {
+	text-align: center;
+	color: red;
+	line-height: 60px;
+
+}
+
+h1 {
+	
+	padding: 30px;
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+	background-color: purple;
+	color: yellow;
+}
+
+#play {
+	padding: 20px;
+    background: lightgreen;
+    color: purple;
+    border: #95A8AC;
+    border-radius: 20px;
+    font-size: 40px;
+    cursor: pointer;
+    text-align: center;
+
+ }
+
+
+ul {
+	text-align: left;
+	list-style-type: none;
+	display: inline-block;
+}
+
+
+#controls {
+	margin-top: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#message {
+	text-align: center;
+	font-weight: bold;
+}
+
+
+
